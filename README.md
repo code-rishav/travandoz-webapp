@@ -1,2 +1,2 @@
 # travandoz-webapp
-Frontend Repo for mobile application
+Frontend Repo for web application
