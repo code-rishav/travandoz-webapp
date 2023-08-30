@@ -1,12 +1,14 @@
 
 import './App.css'
-import Footer from './component/footer/Footer'
+import Footer from './components/footer/Footer'
+
 
 function App() {
   
 
   return (
     <>
+    
     <Footer/>
         
     </>
