@@ -1,19 +1,17 @@
 
 import './App.css'
-import Footer from './components/footer/Footer'
+// import ContactUs from './components/ContactUs'
+import Footer from './components/Footer'
 
 
 function App() {
-  
+
 
   return (
-
-
-    
-    <Footer/>
-
-
-        
+    <>
+      {/* <ContactUs /> */}
+      <Footer />
+    </>
 
   )
 }
