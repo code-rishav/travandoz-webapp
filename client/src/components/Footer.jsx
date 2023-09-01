@@ -3,12 +3,11 @@
 const Footer = () => {
     return (
         <div className="bottom">
-
-            <footer className="mx-0 bg-white fixed bottom-0 w-full">
+            <footer className="mx-0 p-8 bg-white bottom-0 w-full">
                 <div className="mx-0  w-full max-w-screen-xl p-0 py-0 lg:py-8">
                     <div className="md:flex md:justify-between">
                         <div className="mb-6 md:mb-0">
-                            <span className="self-center text-4xl font-semibold whitespace-nowrap text-dark-color">Travandoz</span>
+                            <span className="pl-10 text-4xl font-semibold whitespace-nowrap text-dark-color">Travandoz</span>
 
                         </div>
                         <div className="grid grid-cols-4 gap-8 sm:gap-6 sm:grid-cols-3">
